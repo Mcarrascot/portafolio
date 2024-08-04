@@ -70,7 +70,7 @@ export const ProjectList: ProjectType[] = [
     imgUrl: "",
     videoUrl: "/videos/landing.mp4",
     githubUrl: "https://github.com/Mcarrascot/landingventas",
-    websiteUrl: "https://mcarrascot.github.io/proyecto-crud/",
+    websiteUrl: "https://mcarrascot.github.io/landingventas/",
   },
   {
     icon: <MagentaKitchenSVG />,
