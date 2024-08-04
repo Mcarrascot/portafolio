@@ -28,7 +28,7 @@ export const ProjectList: ProjectType[] = [
     subtitle: "Website para salón de uñas",
     technologies: [
       {
-        name: "React",
+        name: "HTML",
         icon: (
           <ReactSVG
             color="#61DAFB"
@@ -38,7 +38,7 @@ export const ProjectList: ProjectType[] = [
       },
 
       {
-        name: "TypeScript",
+        name: "Bootstrap",
         icon: (
           <TypescriptSVG
             color="#3178C6"
@@ -47,7 +47,7 @@ export const ProjectList: ProjectType[] = [
         ),
       },
       {
-        name: "Shadcn",
+        name: "CSS",
         icon: (
           <ShadcnSVG
             color="#000000"
@@ -56,10 +56,10 @@ export const ProjectList: ProjectType[] = [
         ),
       },
       {
-        name: "Tailwind",
+        name: "JavaScript",
         icon: (
-          <TailwindSVG
-            color="#06B6D4"
+          <JavascriptSVG
+            color="#F7DF1E"
             size={16}
           />
         ),
@@ -78,7 +78,7 @@ export const ProjectList: ProjectType[] = [
     subtitle: "CRUD Website",
     technologies: [
       {
-        name: "React",
+        name: "HTML",
         icon: (
           <ReactSVG
             color="#61DAFB"
@@ -87,7 +87,7 @@ export const ProjectList: ProjectType[] = [
         ),
       },
       {
-        name: "Next js",
+        name: "Bootstrap",
         icon: (
           <NextSVG
             color="#000"
@@ -96,7 +96,7 @@ export const ProjectList: ProjectType[] = [
         ),
       },
       {
-        name: "CSS Modules",
+        name: "CSS",
         icon: (
           <CSSSVG
             color="#1572B6"
@@ -105,10 +105,19 @@ export const ProjectList: ProjectType[] = [
         ),
       },
       {
-        name: "Antd",
+        name: "Local Storage",
         icon: (
           <AntdSVG
             color="#1d93ff"
+            size={16}
+          />
+        ),
+      },
+      {
+        name: "JavaScript",
+        icon: (
+          <JavascriptSVG
+            color="#F7DF1E"
             size={16}
           />
         ),
@@ -136,7 +145,7 @@ export const ProjectList: ProjectType[] = [
         ),
       },
       {
-        name: "React",
+        name: "HTML",
         icon: (
           <ReactSVG
             color="#61DAFB"
@@ -145,7 +154,7 @@ export const ProjectList: ProjectType[] = [
         ),
       },
       {
-        name: "TypeScript",
+        name: "Bootstrap",
         icon: (
           <TypescriptSVG
             color="#3178C6"
@@ -154,7 +163,7 @@ export const ProjectList: ProjectType[] = [
         ),
       },
       {
-        name: "Sass",
+        name: "CSS",
         icon: (
           <SassSVG
             color="#CC6699"
@@ -164,19 +173,10 @@ export const ProjectList: ProjectType[] = [
       },
 
       {
-        name: "Prime React",
+        name: "Third party APIs",
         icon: (
           <PrimeReactSVG
             color="#06B6D4"
-            size={16}
-          />
-        ),
-      },
-      {
-        name: "React Hook Form",
-        icon: (
-          <ReactHookFormSVG
-            color="#EC5990"
             size={16}
           />
         ),
@@ -204,7 +204,7 @@ export const ProjectList: ProjectType[] = [
         ),
       },
       {
-        name: "TypeScript",
+        name: "HTML",
         icon: (
           <TypescriptSVG
             color="#3178C6"
@@ -213,7 +213,7 @@ export const ProjectList: ProjectType[] = [
         ),
       },
       {
-        name: "Express",
+        name: "Bootstrap",
         icon: (
           <ExpressSVG
             color="#000000"
@@ -222,7 +222,7 @@ export const ProjectList: ProjectType[] = [
         ),
       },
       {
-        name: "MongoDB",
+        name: "CSS",
         icon: (
           <MongoDBSVG
             color="#47A248"
@@ -231,19 +231,10 @@ export const ProjectList: ProjectType[] = [
         ),
       },
       {
-        name: "Mongoose",
+        name: "Google Firestore",
         icon: (
           <MongooseSVG
             color="#880000"
-            size={16}
-          />
-        ),
-      },
-      {
-        name: "Swagger",
-        icon: (
-          <SwaggerSVG
-            color="#85EA2D"
             size={16}
           />
         ),
