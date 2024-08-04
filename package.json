@@ -1,7 +1,6 @@
 {
   "name": "portafolio",
   "version": "0.1.0",
-  "private": true,
   "scripts": {
     "dev": "next dev",
     "build": "next build",
@@ -22,7 +21,7 @@
     "@vercel/analytics": "^1.1.1",
     "framer-motion": "^10.16.4",
     "motion": "^10.16.4",
-    "next": "^14.0.2-canary.25",
+    "next": "^14.0.2",
     "react": "^18",
     "react-dom": "^18",
     "sonner": "^1.2.3"
