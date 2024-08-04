@@ -24,8 +24,8 @@ import { NextSVG } from "../components/ui/icons/index";
 export const ProjectList: ProjectType[] = [
   {
     icon: <ShadcnLandingSVG />,
-    title: "Shadcn Landing page",
-    subtitle: "Landing page template",
+    title: "Landing page",
+    subtitle: "Website para salón de uñas",
     technologies: [
       {
         name: "React",
@@ -66,16 +66,16 @@ export const ProjectList: ProjectType[] = [
       },
     ],
     description:
-      "Landing page  with essential sections to promote a particular product, service, event, or offer. It is fully responsive, customizable, has dark mode, meta tags and user-friendly interface.",
+      'La idea de este proyecto es crear una "landing-page", en este caso creé una landing-de-ventas para un salón de uñas. El objetivo aquí es poner en práctica lo aprendido en cuanto HTML, CSS y Bootstrap.',
     imgUrl: "/videos/shadcn-landing-page.webp",
     videoUrl: "/videos/shadcn-landing-page.mp4",
-    githubUrl: "https://github.com/leoMirandaa/shadcn-landing-page.git",
-    websiteUrl: "https://shadcn-landing-page.vercel.app/",
+    githubUrl: "https://github.com/Mcarrascot/landingventas",
+    websiteUrl: "https://mcarrascot.github.io/proyecto-crud/",
   },
   {
     icon: <MagentaKitchenSVG />,
-    title: "Magenta Kitchen",
-    subtitle: "Restaurant Menu",
+    title: "CRUD Website",
+    subtitle: "",
     technologies: [
       {
         name: "React",
@@ -115,16 +115,16 @@ export const ProjectList: ProjectType[] = [
       },
     ],
     description:
-      "Restaurant menu created with the purpose to have an elegant digital menu, with the capability to use it with QR code and show the elemental restaurant information and all the dishes available.",
+      'La idea de este proyecto es crear una "CRUD" website usando localStorage, en este caso, creé un sistema de gestión de inventario para una empresa de alquiler de películas llamada Rentflix. El objetivo aquí es poner en práctica lo aprendido en cuanto Javascript con el DOM y localStorage.',
     imgUrl: "/videos/magenta.webp",
     videoUrl: "/videos/magenta.mp4",
-    githubUrl: "https://github.com/leomirandaa/restaurant-menu.git",
-    websiteUrl: "https://magentakitchen.vercel.app/",
+    githubUrl: "https://github.com/Mcarrascot/Proyecto-CRUD",
+    websiteUrl: "https://mcarrascot.github.io/Proyecto-CRUD/",
   },
   {
     icon: <Sk8terSVG />,
-    title: "Sk8ter",
-    subtitle: "E-commerce",
+    title: "Pronostico del tiempo",
+    subtitle: "Dashboard Condiciones Climáticas",
     technologies: [
       {
         name: "JavaScript",
@@ -183,16 +183,16 @@ export const ProjectList: ProjectType[] = [
       },
     ],
     description:
-      "Dynamic e-commerce web system selling skateboards in a friendly and intuitive interface. The system has authentication, a dashboard and also dark mode.",
+      'Este proyecto muestra las condiciones climáticas de las ciudades del mundo que desees ver, donde mediante un buscador puedes ingresar la ciudad y te mostrará las condiciones climáticas, radiación uv, humedad, velocidad del viento, hora y los siguientes 7 días de clima.',
     imgUrl: "/videos/sk8ter.webp",
     videoUrl: "/videos/sk8ter.mp4",
-    githubUrl: "https://github.com/leoMirandaa/sk8ter-shop",
-    websiteUrl: "",
+    githubUrl: "https://github.com/Mcarrascot/Dashboard",
+    websiteUrl: "https://mcarrascot.github.io/Dashboard/",
   },
   {
     icon: <ShopApiSVG />,
-    title: "Shop API",
-    subtitle: "E-commerse back-end",
+    title: "Los pollos hermanos",
+    subtitle: "Restaurante React App",
     technologies: [
       {
         name: "JavaScript",
@@ -250,10 +250,10 @@ export const ProjectList: ProjectType[] = [
       },
     ],
     description:
-      "Backed e-commerce project that allows to manage users, categories, coupons and products with the endpoints ready to play with. Includes swagger docs.",
+      'En este proyecto se construyó una app restaurante utilizando react, vite, bootstrap, html y css. Para mi aplicación de restaurante decidí crear una website para el restaurante Los Pollos Hermanos basado en el programa de televisión Breaking Bad.',
     imgUrl: "/videos/shop-api.webp",
     videoUrl: "",
-    githubUrl: "https://github.com/leomirandaa/shop-API.git",
-    websiteUrl: "NONE",
+    githubUrl: "https://github.com/Mcarrascot/restaurante",
+    websiteUrl: "https://mcarrascot.github.io/restaurante/",
   },
 ];
