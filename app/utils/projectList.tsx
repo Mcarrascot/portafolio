@@ -67,15 +67,15 @@ export const ProjectList: ProjectType[] = [
     ],
     description:
       'La idea de este proyecto es crear una "landing-page", en este caso creé una landing-de-ventas para un salón de uñas. El objetivo aquí es poner en práctica lo aprendido en cuanto HTML, CSS y Bootstrap.',
-    imgUrl: "/videos/shadcn-landing-page.webp",
-    videoUrl: "/videos/shadcn-landing-page.mp4",
+    imgUrl: "",
+    videoUrl: "/videos/landing.mp4",
     githubUrl: "https://github.com/Mcarrascot/landingventas",
     websiteUrl: "https://mcarrascot.github.io/proyecto-crud/",
   },
   {
     icon: <MagentaKitchenSVG />,
-    title: "CRUD Website",
-    subtitle: "",
+    title: "RENTFLIX",
+    subtitle: "CRUD Website",
     technologies: [
       {
         name: "React",
@@ -116,8 +116,8 @@ export const ProjectList: ProjectType[] = [
     ],
     description:
       'La idea de este proyecto es crear una "CRUD" website usando localStorage, en este caso, creé un sistema de gestión de inventario para una empresa de alquiler de películas llamada Rentflix. El objetivo aquí es poner en práctica lo aprendido en cuanto Javascript con el DOM y localStorage.',
-    imgUrl: "/videos/magenta.webp",
-    videoUrl: "/videos/magenta.mp4",
+    imgUrl: "",
+    videoUrl: "/videos/rentflix.mp4",
     githubUrl: "https://github.com/Mcarrascot/Proyecto-CRUD",
     websiteUrl: "https://mcarrascot.github.io/Proyecto-CRUD/",
   },
@@ -184,8 +184,8 @@ export const ProjectList: ProjectType[] = [
     ],
     description:
       'Este proyecto muestra las condiciones climáticas de las ciudades del mundo que desees ver, donde mediante un buscador puedes ingresar la ciudad y te mostrará las condiciones climáticas, radiación uv, humedad, velocidad del viento, hora y los siguientes 7 días de clima.',
-    imgUrl: "/videos/sk8ter.webp",
-    videoUrl: "/videos/sk8ter.mp4",
+    imgUrl: "",
+    videoUrl: "/videos/dashboard.mp4",
     githubUrl: "https://github.com/Mcarrascot/Dashboard",
     websiteUrl: "https://mcarrascot.github.io/Dashboard/",
   },
@@ -251,8 +251,8 @@ export const ProjectList: ProjectType[] = [
     ],
     description:
       'En este proyecto se construyó una app restaurante utilizando react, vite, bootstrap, html y css. Para mi aplicación de restaurante decidí crear una website para el restaurante Los Pollos Hermanos basado en el programa de televisión Breaking Bad.',
-    imgUrl: "/videos/shop-api.webp",
-    videoUrl: "",
+    imgUrl: "",
+    videoUrl: "/videos/los_pollos.mp4",
     githubUrl: "https://github.com/Mcarrascot/restaurante",
     websiteUrl: "https://mcarrascot.github.io/restaurante/",
   },
